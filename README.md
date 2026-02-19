@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Octavio, a Web Developer from Brazil</h1>
 <h3 align="left">Passionate about frontend development and constantly improving my skills.</h3>
-<h3 align="left">https://portifolio-octavio.netlify.app/</h3>
+<h3 align="left">https://portifolio-octavio.netlify.app</h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=octaviosilva4275&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
